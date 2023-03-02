@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+.logo{
+    width: 50%;
+    height: 20vh;
+    background-color: black;
+}
+.login{
+    width: 50%;
+    height: 20%;
+    background-color: azure;
+}    
+.left{
+    width: 10%;
+    height: 10%;
+    background-color: hotpink;
+    margin: 50%;
+}    
+.middle{
+    width: 10%;
+    height: 10%;
+    background-color: hotpink;
+    
+}    
+.right{
+    width: 10%;
+    height: 10%;
+    background-color: hotpink;
+
+}    
